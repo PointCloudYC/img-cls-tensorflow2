@@ -1,5 +1,6 @@
 # img-cls-tensorflow2
-Representative image classification models -- LeNet, AlexNet,  VggNet, GoogleNet, ResNet, DenseNet, HRNet
+
+Representative image classification models in [Tensorflow2](https://www.tensorflow.org) -- LeNet, AlexNet,  VggNet, GoogleNet, ResNet, DenseNet, HRNet
 
 ## TODOs
 
