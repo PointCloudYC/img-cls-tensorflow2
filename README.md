@@ -2,7 +2,7 @@
 
 Representative image classification models in [Tensorflow2](https://www.tensorflow.org) -- LeNet, AlexNet,  VggNet, GoogleNet, ResNet, DenseNet, HRNet
 
-P.S.: all the models are implemented using Tensorflow 2 sub-classing API and data API to enable more pythonic, flexible, efficient and maintainable code.
+P.S.: all the models are implemented using Tensorflow 2 sub-classing API and data API to enable more pythonic, **flexible(i.e. suitable for research revision)**, efficient and maintainable code. Moreover, all the models are trained on the [FashionMINIST](https://github.com/zalandoresearch/fashion-mnist#benchmark) dataset.
 
 ## TODOs
 
